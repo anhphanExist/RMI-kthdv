@@ -10,8 +10,8 @@ Chú ý:
 
 
 Nhóm: 
-Phan Anh - 17020589
-Lưu Lê Tuấn Đạt - 17020671
+- Phan Anh: 17020589
+- Lưu Lê Tuấn Đạt: 17020671
 
 Hướng dẫn:
 
