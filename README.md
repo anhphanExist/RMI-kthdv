@@ -9,6 +9,10 @@ Chú ý:
 - Nộp mã nguồn và báo cáo đơn giản chứa thông tin về nhóm và ảnh chụp màn hình thể hiện ứng dụng đã hoạt động.
 
 
+Nhóm: 
+Phan Anh - 17020589
+Lưu Lê Tuấn Đạt - 17020671
+
 Hướng dẫn:
 
 chạy javac 2 file ClientOperation và ServerOperation để biên dịch
