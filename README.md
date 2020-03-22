@@ -16,6 +16,12 @@ Nhóm:
 Hướng dẫn:
 
 chạy javac 2 file ClientOperation và ServerOperation để biên dịch
+<div align="center">
+  <img src="https://github.com/anhphanExist/RMI-kthdv/blob/master/res1.PNG?raw=true">
+</div>
 
 register RMI qua lệnh start rmiregistry
 chạy lần lượt java Server Operation và java ClientOperation trên 2 terminal khác nhau để nhận kết quả
+<div align="center">
+  <img src="https://github.com/anhphanExist/RMI-kthdv/blob/master/res2.PNG?raw=true">
+</div>
